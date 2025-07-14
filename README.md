@@ -1,12 +1,10 @@
 # Calculator Using React
 
-A minimal, responsive calculator built with **React** and styled using **Bootstrap 5**.
+A minimal, responsive calculator built with **React** and styled using **Bootstrap 5**. It is designed to replicate the look of a real handheld calculator with smooth user experience.
 
-Designed to replicate a real handheld calculator with smooth user experience.
+It handles user inputs neatly and catches invalid input with clear error messages to avoid app crashes.
 
-It handles user inputs neatly and catches input errors to avoid app crashes.
-
-👉 [Live Demo](https://FarsanaPH.github.io/react-calculator)
+👉 [Use Calculator Live](https://FarsanaPH.github.io/react-calculator)
 
 
 ## Features
