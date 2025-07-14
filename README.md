@@ -6,6 +6,7 @@ It handles user inputs neatly and catches invalid input with clear error message
 
 👉 [Use Calculator Live](https://FarsanaPH.github.io/react-calculator)
 
+---
 
 ## Features
 
@@ -22,9 +23,7 @@ It handles user inputs neatly and catches invalid input with clear error message
 - Vite
 - JavaScript (ES6+)
 
----
-
-## Note:
+#### Note:
 
 This project was created as part of my learning path in React.  
 
