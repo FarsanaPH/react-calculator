@@ -34,7 +34,7 @@ function App() {
             <div className="col-3"><button onClick={clearAll} className="btn btn-success rounded-circle" >AC</button></div>
             <div className="col-3"><button onClick={backSpace} className="btn btn-success rounded-circle" >⌫</button></div>
             <div className="col-3"><button onClick={() => display("%")} className="btn btn-light rounded-circle">%</button></div>
-            <div className="col-3"><button onClick={() => display("/")} className="btn btn-light rounded-circle">/</button></div>
+            <div className="col-3"><button onClick={() => display("/")} className="btn btn-light rounded-circle">÷</button></div>
           </div>
           <div className="row mt-3 ms-2">
             <div className="col-3"><button onClick={() => display("7")} className="btn btn-light rounded-circle">7</button></div>
@@ -47,13 +47,13 @@ function App() {
             <div className="col-3"><button onClick={() => display("4")} className="btn btn-light rounded-circle">4</button></div>
             <div className="col-3"><button onClick={() => display("5")} className="btn btn-light rounded-circle">5</button></div>
             <div className="col-3"><button onClick={() => display("6")} className="btn btn-light rounded-circle">6</button></div>
-            <div className="col-3"><button onClick={() => display("-")} className="btn btn-light rounded-circle">-</button></div>
+            <div className="col-3"><button onClick={() => display("+")} className="btn btn-light rounded-circle">+</button></div>
           </div>
           <div className="row mt-3 ms-2">
             <div className="col-3"><button onClick={() => display("1")} className="btn btn-light rounded-circle">1</button></div>
             <div className="col-3"><button onClick={() => display("2")} className="btn btn-light rounded-circle">2</button></div>
             <div className="col-3"><button onClick={() => display("3")} className="btn btn-light rounded-circle">3</button></div>
-            <div className="col-3"><button onClick={() => display("+")} className="btn btn-light rounded-circle">+</button></div>
+            <div className="col-3"><button onClick={() => display("-")} className="btn btn-light rounded-circle">-</button></div>
           </div>
           <div className="row mt-4 ms-2 mb-5 me-">
             <div className="col-3"><button onClick={() => display(".")} className="btn btn-light rounded-circle">.</button></div>
