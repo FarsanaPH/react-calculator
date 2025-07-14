@@ -11,16 +11,17 @@ Designed to replicate the look of a real handheld calculator with smooth user ex
 ## Features
 
 - **Clean input display**  
-  Handles long expressions and shows the latest typed characters.
+  &nbsp;&nbsp;&nbsp;&nbsp;Handles long expressions and shows the latest typed characters.
 
 - **Smart error handling**  
-  Invalid expressions return a clear `"ERROR"` message.
+  &nbsp;&nbsp;&nbsp;&nbsp;Invalid expressions return a clear `"ERROR"` message.
 
 - **Responsiveness**  
-  Clean, mobile-friendly layout using Bootstrap 5.
+  &nbsp;&nbsp;&nbsp;&nbsp;Clean, mobile-friendly layout using Bootstrap 5.
 
 - **Lightweight and fast**  
-  Built with Vite for fast dev performance.
+  &nbsp;&nbsp;&nbsp;&nbsp;Built with Vite for fast dev performance.
+
 
 
 ## Technologies Used
