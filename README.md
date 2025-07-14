@@ -8,17 +8,20 @@ Designed to replicate the look of a real handheld calculator with smooth user ex
 👉 [Live Demo](https://FarsanaPH.github.io/react-calculator)
 
 
-
 ## Features
 
-- **Clean input display**
-  -handles long expressions and shows the latest typed characters.
-- **Smart error handling**
-  - Invalid expressions return a clear `"ERROR"` message.
-- **Responsiveness**
-  - Clean, mobile-friendly layout using Bootstrap 5.
-- **Lightweight and fast**
-  -Built with **Vite** for fast dev performance.
+- **Clean input display**  
+  Handles long expressions and shows the latest typed characters.
+
+- **Smart error handling**  
+  Invalid expressions return a clear `"ERROR"` message.
+
+- **Responsiveness**  
+  Clean, mobile-friendly layout using Bootstrap 5.
+
+- **Lightweight and fast**  
+  Built with Vite for fast dev performance.
+
 
 ## Technologies Used
 
