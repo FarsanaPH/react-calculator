@@ -34,7 +34,7 @@ function App() {
             <div className="col-3"><button onClick={clearAll} className="btn btn-success rounded-circle" >AC</button></div>
             <div className="col-3"><button onClick={backSpace} className="btn btn-success rounded-circle" >⌫</button></div>
             <div className="col-3"><button onClick={() => display("%")} className="btn btn-light rounded-circle">%</button></div>
-            <div className="col-3"><button onClick={() => display("/")} className="btn btn-light rounded-circle">÷</button></div>
+            <div className="col-3"><button onClick={() => display("÷")} className="btn btn-light rounded-circle">÷</button></div>
           </div>
           <div className="row mt-3 ms-2">
             <div className="col-3"><button onClick={() => display("7")} className="btn btn-light rounded-circle">7</button></div>
