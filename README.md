@@ -6,10 +6,8 @@ Designed to replicate a real handheld calculator with smooth user experience.
 
 It handles user inputs neatly and catches input errors to avoid app crashes.
 
-## Live Demo
-👉 [Use the Calculator Live](https://FarsanaPH.github.io/react-calculator)
+👉 [Live Demo](https://FarsanaPH.github.io/react-calculator)
 
----
 
 ## Features
 
@@ -28,7 +26,7 @@ It handles user inputs neatly and catches input errors to avoid app crashes.
 
 ---
 
-## 📘 Note
+## Note:
 
 This project was created as part of my learning path in React.  
 
