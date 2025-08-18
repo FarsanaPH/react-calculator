@@ -28,8 +28,8 @@ Designed to replicate the look of a real handheld calculator with smooth user ex
 
 - React
 - Bootstrap 5
-- Vite
 - JavaScript (ES6+)
+- Vite
 
 ---
 >⭐ Note: This project was created as part of my learning path in React.
